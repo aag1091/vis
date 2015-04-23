@@ -2,7 +2,8 @@ require 'mechanize'
 require 'csv'
 
 salary_data = CSV.read('salary_data.csv')
-
+universities = CSV.read('postscndryunivsrvy2013dirinfo12.csv', encoding: "iso-8859-1:UTF-8", :headers => true)
+states = CSV.read('state_table.csv', encoding: "iso-8859-1:UTF-8", :headers => true)
 teachers = []
 
 salary_data.each do |sd|
@@ -15,6 +16,8 @@ salary_data.each do |sd|
 
   teacher[:first_name] = first_name
   teacher[:last_name] = last_name
+  teacher[:position] = first_name
+  teacher[:salary] = last_name
 
   page = mechanize.get('https://www.odu.edu/directory?F_NAME='+first_name+'&L_NAME='+last_name+'&SEARCH_IND=E')
 
@@ -81,12 +84,23 @@ salary_data.each do |sd|
 
   if education.any?
     teacher[:university] = education.first['university']
+    uni = universities.select{ |u| u['INSTNM'] == education.first['university'] }
+    puts uni.inspect
+    if uni.any?
+      teacher[:st_abbr] = uni.first['STABBR']
+    end
+    state = states.select{ |u| u['abbreviation'] == teacher[:st_abbr] }
+    puts state.inspect
+    if state.any?
+      teacher[:state] = state.first['name']
+    end
     teacher[:year] = education.first['year']
     teacher[:major] = education.first['major']
     teacher[:degree] = education.first['degree']
   end
 
   teachers << teacher
+  puts "#{teacher[:first_name]}  #{teacher[:last_name]}- Done"
 end
 
 puts teachers.inspect

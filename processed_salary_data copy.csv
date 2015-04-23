@@ -1,0 +1,647 @@
+first_name,last_name,department,university,year,major,degree
+YOUSSIF,AL-NASHIF,Electrical & Computer Engineering,AZ,2008,Electrical & Computer Engineering,Ph. D.
+MICHAEL,ALLEN,""
+MICHEL,AUDETTE,"Modeling, Simulation & Visualization Engineering",McGill University,2002,Biomedical Engineering,Ph. D.
+ORLANDO,AYALA,Engineering Technology,DE,2005,Mechanical Engineering,Ph. D.
+CHRISTOPHER,BAILEY,Electrical & Computer Engineering,NY,2012,Microsystems Enginerring,Ph. D.
+SWARNALI,BANERJEE,Department of Mathematics & Statistics,CT,2014,Statistics,Ph. D.
+CATHY,BARRACO,Department of Psychology,FL,2006,Clinical Psychology,Ph. D.
+DANIEL,BARSHIS,Department of Biological Sciences,University of Hawai'i at Manoa,2009,Zoology,Ph. D.
+BRETT,BEBBER,History,AZ,2008,Modern European History,Ph. D.
+GARY,BECK,Communication & Theatre Arts,TX,2010,Communication Studies,Ph. D.
+CHRISTINE,BERGER,Counseling & Human Services,MD,2009,Counselor Education & Supervision,Ph. D.
+ONUR,BILGEN,Mechanical & Aerospace Engineering,Virginia Tech,2010,Mechanical Engineering,Ph. D.
+ELIZABETH,BLACK,Foreign Languages & Literatures,University of Illinois,2011,French,Ph. D.
+IVANETE,BLANCO,Department of Art,University of Oklahoma,2003,Visual Communication,M.F.A.
+JAMES,BLANDO,Community & Environmental Health,Rutgers University - UMDNJ,1999,Environmental Science,Ph. D.
+JONNA,BOBZIEN,Communication Disorders & Special Education,VA,2009,Special Education,Ph. D.
+RAMON,BOFILL,Department of Art,RI,2005,Painting,M.F.A.
+SHENITA,BRAZELTON,Political Science & Geography,GA,2014,Political Science,Ph. D.
+JOHN,BRILL,Department of Psychology,FL,2007,Applied Experimental and Human Factors Psychology,Ph. D.
+ANN,BRUHN,Dental Hygiene,VA,2007,Dental Hygiene,M.S.
+ROBERT,BRUNO,Medical Diagnostic & Translational Sciences,University of Maryland Baltimore,2009,Life Sciences,Ph. D.
+STEPHEN,BURGIN,STEM Education & Professional Studies,FL,2012,Curriculum and Instruction,Ph. D.
+BRANDON,BUTLER,Teaching & Learning,GA,2011,Social Studies Education,Ph. D.
+YUNBYEONG,CHAE,Civil & Environmental Engineering,PA,2011,Structural Engineering,Ph. D.
+TOM,CHAPMAN,Political Science & Geography,FL,2007,Geography,Ph. D.
+PHOEBE,CHAPPELL,"Ocean, Earth & Atmospheric Sciences",Massachusetts Institute of Technology/Woods Hole Oceanographic Institution,2009,Chemical Oceanography,Ph. D.
+CHUNG HAO,CHEN,Electrical & Computer Engineering,The University of Tennessee,2009,Electrical Engineering,Ph. D.
+ANDREY,CHERNIKOV,Computer Science Department,VA,2007,Computer Science,Ph. D.
+LAURA,CHEZAN,Communication Disorders & Special Education,University of South Carolina,2012,Special Education,Ph. D.
+KONSTANTIN,CIGULAROV,Department of Psychology,Colorado State University,2008,Industrial/Organizational Psychology,Ph. D.
+VITTORIO,COLAIZZI,Department of Art,VA,2005,Art History,Ph. D.
+JAMIE,COLWELL,Teaching & Learning,SC,2012,Curriculum & Instruction,Ph. D.
+HELEN,CROMPTON,Teaching & Learning,University of North Carolina,Chapel Hill,Education,Ph. D.
+MENGYAN,DAI,Sociology & Criminal Justice,University of Cincinnati,2007,Criminal Justice and Human Services,Ph. D.
+DAYLE,DAINES,Department of Biological Sciences,University of Rochester School of Medicine & Dentistry,1999,Microbiology & Immunology,Ph. D.
+DARRYL,DRAPER,STEM Education & Professional Studies,Pennsylvania State University,2010,Instructional Systems,Ph. D.
+JUAN,DU,Economics,University of California,Davis,Economics,Ph. D.
+JUDITH,DUNKERLY-BEAN,Teaching & Learning,University of Nevada,Las Vegas,Curriculum and Instruction: Literacy,Ph. D.
+ANGELA,ECKHOFF,Teaching & Learning,University of Colorado at Boulder,"",Educational Psychology and Cognitive Science,Dual PhD
+ABDELMAGEED,ELMUSTAFA,Mechanical & Aerospace Engineering,University of Wisconsin - Madison,1999,"Mechanical Eng., Materials Science/Mechanics",Ph. D.
+JOYCE,FLORES,Dental Hygiene,VA,2008,Dental Hygiene,M.S.
+SARAH,FLORINI,Communication & Theatre Arts,Indiana University,2012,Musicology,Ph. D.
+DANIEL,FOSTER,Engineering Technology,The Ohio State University,2014,Welding Engineering,Ph. D.
+CHRISTIANNE,FOWLER,Nursing,VA,2010,Nursing,D.N.P.
+MICHAEL,FRAZIER,Department of Management,Oklahoma State University,2009,Organizational Behavior,Ph. D.
+RACHEL,FRIEDER,Department of Management,FL,2014,Organizational Behavior & Human Resources Management,Ph. D.
+DIPANKAR,GHOSH,Mechanical & Aerospace Engineering,FL,2009,Mechanical Engineering,Ph. D.
+SCOTT,GIRDNER,Philosophy & Religious Studies,MA,2010,Islamic Studies,Ph. D.
+CHRISTOPHER,GLASS,Educational Foundations & Leadership,MI,2012,"Higher, Adult, and Lifelong Education",Ph. D.
+DAVID,GODDEN,Philosophy & Religious Studies,McMaster University,2004,Philosophy,Ph. D.
+EMILY,GOODMAN-SCOTT,Counseling & Human Services,VA,2013,Counselor Education,Ph. D.
+RODERICK,GRAHAM,Sociology & Criminal Justice,City University of New York,2009,Sociology,Ph. D.
+MELVA,GRANT,STEM Education & Professional Studies,The Ohio State University,2009,Mathematics Education,Ph. D.
+ELIZABETH,GROENEVELD,Women's Studies,University of Guelph,2010,Literary Studies,Ph. D.
+LUIS,GUADANO,Foreign Languages & Literatures,University of Minnesota,2006,Hispanic and Luno-Brazil Literature and Linguistics,Ph. D.
+BENJAMIN,HAMLINGTON,"Ocean, Earth & Atmospheric Sciences",University of Colorado at Boulder,2011,Aerospace Engineering Sciences,Ph. D.
+KATHERINE,HAMMOND,Communication & Theatre Arts,GA,2002,Film and Dramatic Media,M.F.A.
+HOLLY,HANDLEY,Engineering Management & Systems Engineering,VA,1999,Information Technology and Engineering,Ph. D.
+TINA,HANEY,Nursing,VA,2011,Nursing Practice,Ph. D.
+WU,HE,Information Technology & Decision Sciences,University of Missouri,2006,Information Science,Ph. D.
+KRISTIN,HERON,Department of Psychology,NY,2011,Clinical Psychology,Ph. D.
+EDWARD,HILL,Human Movement Sciences,University Of Utah,2004,Recreation and Tourism Studies,Ph. D.
+KIMBERLY,HOAGLAND,Political Science & Geography,University of Maryland,2010,"American Politics, Public Policy",Ph. D.
+JOHANNA,HOCH,3118 Health Sciences Bldg,KY,2012,Rehabilitation Sciences,Ph. D.
+MATTHEW,HOCH,1005 Student Recreation Ctr,KY,2011,Rehabilitation Sciences,Ph. D.
+KAPREA,HOQUEE,Counseling & Human Services,The Pennsylvania State University,2011,Counselor Education and Supervision,Ph. D.
+XIAOXIAO,HU,Department of Psychology,VA,2012,Industrial/Organizational Psychology,Ph. D.
+SHUIWANG,JI,Computer Science Department,Arizona State University,2010,Computer Science,Ph. D.
+RACHEL,JOHNSON,Communication Disorders & Special Education,FL,2014,Communication Science and Disorders,Ph. D.
+SOOKYUNG,JOO,Department of Mathematics & Statistics,Purdue University,2004,Mathematics,Ph. D.
+SUNIL,JOSHI,Medical Diagnostic & Translational Sciences
+VUKICA,JOVANOVIC,Engineering Technology,Purdue University,2010,Mechanical Engineering Technology,Ph. D.
+YOUNGHAN,JUNG,Engineering Technology
+PAUL,KIM,Department of Music,Shenandoah Conservatory,2012,Orchestral Conducting,D.M.A.
+SUE,KIMMEL,Teaching & Learning,NC,2010,Teacher Education,Ph. D.
+RYAN,KLINGER,Department of Management,FL,2012,Management,Ph. D.
+TIMOTHY,KOMAREK,Economics,MI,2012,"Agricultural, Food and Resource Economics",Ph. D.
+MICHAEL,KOSLOSKI,STEM Education & Professional Studies,VA,2010,Occupational and Technical Studies,Ph. D.
+SANDEEP,KUMAR,Civil & Environmental Engineering,AL,2010,Chemical Engineering,Ph. D.
+RICHARD,LANDERS,Department of Psychology,University of Minnesota,2009,Industrial and Organizational Psychology,Ph. D.
+STEPHEN,LANIVICH,Department of Management,FL,2011,Business Administration & Entrepreneurship,Ph. D.
+YATING,LIU,STEM Education & Professional Studies,The Ohio State University,2013,Mathematics Education,Ph. D.
+ANDREW,LOPENZINA,English,University of New Hampshire,2006,English,Ph. D.
+YOSHIE,LORD,Accounting,PA,2006,Accounting,Ph. D.
+GANGFENG,MA,Civil & Environmental Engineering,DE,2012,Civil Engineering,Ph. D.
+TIMOTHY,MADDEN,Department of Management,University of Tennessee - Knoxville,2012,Business Administration,Ph. D.
+DAVID,MALLIN,Communication & Theatre Arts,American Film Institute,2008,Cinematography,M.F.A.
+MANVEER,MANN,""
+CAROL,MANSYUR,Community & Environmental Health,TX,2006,Public Health (Behavioral Sciences),Ph. D.
+ERIKA,MARSILLAC,Information Technology & Decision Sciences,OH,2010,Manufacturing Management,Ph. D.
+VENKAT,MARUTHAMUTHU,Mechanical & Aerospace Engineering,IL,2009,Chemical & Biomolecular Engineering,Ph. D.
+SHARON,MCQUEEN,Teaching & Learning,WI,2012,Library and Information Studies,Ph. D.
+JENNIFER,MICHAELI,Engineering Technology,VA,2010,Mechanical Engineering,Ph. D.
+ANNE,MICHALEK,Communication Disorders & Special Education,VA,2012,Special Education,Ph. D.
+KATRINA,MILLER-STEVENS,Public Service,CO,2010,Public Affairs,Ph. D.
+ANNA,MIRKOVA,History,University of Michigan- Ann Arbor,2006,History,Ph. D.
+KEVIN,MOBERLY,English,University of Louisiana - Lafayette,2005,English,Ph. D.
+JEFFRY,MOE,Counseling & Human Services,OH,2007,Counselor Education and Supervision,Ph. D.
+PAUL,MOSES,Engineering Technology,Curtin University of Technology,2012,Electrical Power Engineering,Ph. D.
+ANNE,MURAOKA,Department of Art,PA,2009,Art History,Ph. D.
+RANDOLPH,MYERS,Sociology & Criminal Justice,University of California - Irvine,2009,Social Ecology,M.A.
+TAMER,NADEEM,Computer Science Department,University of Maryland College Park,2006,Computer Science,Ph. D.
+BRIAN,NEDVIN,Department of Music,TX,2005,Voice Performance,D.M.A.
+GIRISH,NEELAKANTA,Department of Biological Sciences,University of Cologne,2005,Microbial Genetics & Genomics,Ph. D.
+TARA,NEWCOMB,Dental Hygiene,VA,2008,Dental Hygiene,M.S.
+MANWO,NG,Information Technology & Decision Sciences,TX,2010,Civil Engineering/Transportation,Ph. D.
+MEGAN,NUTZMAN,History,IL,2008,Classics,M.A.
+TIMOTHY,ORR,History,Pennsylvania State University,2010,Civil War History,Ph. D.
+RAJESH,PALETI,Civil & Environmental Engineering,TX,2012,Ph. D.,Ph. D.
+EUN HEE,PARK,Information Technology & Decision Sciences,GA,2014,Computer Information Systems,Ph. D.
+JONG,PARK,Accounting,PA,2006,Ph. D.,Ph. D.
+ANTHONY,PEREZ,Educational Foundations & Leadership,PA,2012,Educational Psychology,Ph. D.
+DELORES,PHILLIPS,English,University of Maryland College Park,2009,Postcolonial Theory and Literature,Ph. D.
+OTILIA,POPESCU,Engineering Technology,Rutgers University,2004,Electrical and Computer Engineering,Ph. D.
+REBECCA,POSTON,Nursing,University of Virginia,2012,Nursing,Ph. D.
+KATHLEEN,PUTNAM,Nursing,VA,2008,Nursing,Ph. D.
+LAMAR,REAMS,Human Movement Sciences,CO,2012,Sport Administration,Ph. D.
+DANIEL,RICHARDS,English,University of South Florida,2013,English,Ph. D.
+CORRIN,RICHELS,Communication Disorders & Special Education,TN,2004,Hearing and Speech Science -Stuttering and Child Language Development and Disorders,Ph. D.
+ROCHELLE,RODRIGO,English,Arizona State University,2009,English,Ph. D.
+TED,ROGERS,""
+DAVID,ROH,English,University of California,Santa Barbara,English Literature,Ph. D.
+DANIEL,RUSSELL,3118 Health Sciences Bldg,Pennsylvania State University,2000,Kinesiology - Motor Control and Learning,Ph. D.
+PATRICK,SACHS,Medical Diagnostic & Translational Sciences,Medical College of Virginia,2010,Human and Molecular Genetics,Ph. D.
+SEAN,SADRI,Communication & Theatre Arts,FL,2012,Mass Communication,Ph. D.
+KATHRYN,SCHWARTZ,Communication Disorders & Special Education,VA,2011,Communication Sciences and Disorders,Ph. D.
+MICAH,SCOTT,Nursing,VA,2009,Nursing,Ph. D.
+MAMADOU,SECK,Engineering Management & Systems Engineering,Université Paul Cézanne,2007,Systems and Information Sciences,Ph. D.
+MICHAEL,SEEK,Engineering Technology,VA,2007,Civil Engineering,Ph. D.
+MANASI,SHETH-CHANDRA,Community & Environmental Health,VA,2010,Computational Applied Mathematics,M.S.
+JERRY,SHIELDS,Department of Art,GA,1992,Graphic Design,M.F.A.
+KATHRYN,SIMMS,4111 Monarch Way
+KATHLEEN,SLAUSON-BLEVINS,Sociology & Criminal Justice,University of Nebraska - Lincoln,2011,Sociology,Ph. D.
+NARKETTA,SPARKMAN,Counseling & Human Services,MN,2012,Human Service,Ph. D.
+JILL,STEFANIAK,STEM Education & Professional Studies,MI,2013,Instructional Technology,Ph. D.
+KERSTIN,STEITZ,Foreign Languages & Literatures,University of Virginia,2014,Germanic Languages & Literatures,Ph. D.
+KIM,STEWART,Human Movement Sciences,FL,2008,Applied Physiology and Kinesiology,Ph. D.
+YONGHEE,SUH,Teaching & Learning,MI,2006,"Curriculum, Teaching and Educational Policy",Ph. D.
+HAMEEDA,SULTANA,Department of Biological Sciences,University of Cologne,2004,Medical Biochemistry,Ph. D.
+KRISTINE,SUNDAY,Teaching & Learning,Pennsylvania State University,2011,Art Education,Ph. D.
+EUNYOUNG,SUNG,STEM Education & Professional Studies,MI,2012,Retailing,Ph. D.
+IAN,SUTHERLAND,Educational Foundations & Leadership,PA,2011,Educational Leadership,Ed.D.
+ARACELI,SUZARA,College of Arts & Letters,Loyola University of Chicago,1994,Sociology,Ph. D.
+LUCIA,TABACU,Department of Mathematics & Statistics,The Pennsylvania State University,2014,Physiscs,Ph. D.
+NAVID,TAHVILDARI,Civil & Environmental Engineering,Texas A&M University,2011,Civil Engineering,Ph. D.
+CHUANYI,TANG,Marketing Department,AZ,2010,Retailing; Minor: Social Psychology,Ph. D.
+BALSA,TERZIC,Physics,FL,2002,Mathematics,Ph. D.
+LINDSAY,USHER,Human Movement Sciences,Pennsylvania State University,2013,"Recreation, Park and Tourism Management",Ph. D.
+PAMELA,VANHAITSMA,English,University of Pittsburgh,2014,English,Ph. D.
+JELMER,VOS,History,University of London (LSE/SOAS),2005,History,Ph. D.
+ERIC,WALTERS,Department of Biological Sciences,FL,2004,Ecology & Evolution,Ph. D.
+SHUAIAN,WANG,Information Technology & Decision Sciences,National University of Singapore,2012,Transportation Engineering,Ph. D.
+JOHN,WEBER,History,VA,2008,History,Ph. D.
+JOSHUA,WEINHANDL,Human Movement Sciences,WI,2011,Biomechanics,Ph. D.
+GEORGE,WHITE,Academic Affairs,WV,1962,American Diplomatic History,Ph. D.
+LYNN,WILES,Nursing,Duquesne University School of Nursing,2010,Nursing,Ph. D.
+NICOLE,WILLOCK,Philosophy & Religious Studies,Indiana University Bloomington,2011,Religious Studies,Ph. D.
+DYLAN,WITTKOWER,Philosophy & Religious Studies,TN,2006,Philosophy,Ph. D.
+SHU,XIAO,Frank Reidy Center for Bioelectrics,VA,2004,Electrical Engineering,Ph. D.
+TAKESHI,YAGIHASHI,Economics,University of California,Davis,Economics,Ph. D.
+YUSUKE,YAMANI,Department of Psychology,IL,2013,Psychology,Ph. D.
+BRANDON,YODER,Political Science & Geography,University of Virginia,2013,International Relations,Ph. D.
+JUNJI,YOSHIDA,Foreign Languages & Literatures,OR,2006,Japanese Literature and Cinema,Ph. D.
+ELIZABETH,ZANONI,History,University of Minnesota,2011,History,Ph. D.
+CHRISTIAN,ZEMLIN,Electrical & Computer Engineering,Humbolt University,2002,Theoretical Physics,Ph. D.
+JING,ZHANG,Department of Management,National University of Singapore,2004,Business Policy,Ph. D.
+WEIYONG,ZHANG,Information Technology & Decision Sciences,University of Minnesota,2006,Business Administration,Ph. D.
+XIAOYU,ZHANG,Mechanical & Aerospace Engineering,CT,2010,Mechanical Engineering,Ph. D.
+XIHE,ZHU,Human Movement Sciences,University of Maryland - College Park,2009,Kinesiology,Ph. D.
+RAYMOND,CHENG,Department of Mathematics & Statistics,The University of Virginia,1989,Mathematics,Ph. D.
+EILEEN,ABRAHAMSEN,Communication Disorders & Special Education,Columbia University,1980,Speech Language Pathology,Ed.D.
+KIMBERLY,ADAMS TUFTS,Nursing,OH,2006,Doctor of Nursing Practice,Doctor of Nursing Practice
+MUGE,AKPINAR-ELCI,College of Health Sciences,Tulane University School of Public Health and Tropical Medicine,2004,Public Health,M.P.H.
+TAMI,AL-HAZZA,Teaching & Learning,VA,"",Psychology,B.S.
+JENIFER,ALONZO,Communication & Theatre Arts,MD,2005,Theatre,M.F.A.
+NANA,AMOAH,Accounting,MD,2008,Business Administration/Accounting,Ph. D.
+BRIDGET,ANDERSON,English,University of Michigan,2003,Linguistics,Ph. D.
+ERIC,ANDERSON,Economics,University of Washington,1984,Economics,Ph. D.
+TIM,ANDERSON,Communication & Theatre Arts,IL,1998,Radio/Television/Film,Ph. D.
+NATHANIEL,APATOV,Nursing,Uniformed Services University of the Health Sciences,1999,Neuroscience,Ph. D.
+AARON,ARNDT,Marketing Department,University of Oklahoma,2008,"Marketing, Supply Chain Management",Ph. D.
+ROBERT,ARNETT,Communication & Theatre Arts,MS,1997,Communication,Ph. D.
+IVAN,ASH,Department of Psychology,University of Illinois - Chicago,2005,Psychology,Ph. D.
+BARBARA,BARTKUS,Department of Management,Texas A & M University,1997,Management,Ph. D.
+IAN,BARTOL,Department of Biological Sciences,The College Of William & Mary,Virginia Institute of Marine Science,Marine Science,Ph. D.
+DEBORAH,BAUMAN,College of Health Sciences,VA,1982,Dental Hygiene Education,M.S.
+JOSHUA,BEHR,"Virginia Modeling, Analysis & Simulation Center",LA,2001,Urban and Minority Politics,Ph. D.
+LEE,BELFORE,Electrical & Computer Engineering,University of Virginia,1990,Electrical Engineering,Ph. D.
+RICHARDEAN,BENJAMIN,College of Health Sciences,University of Pittsburgh,1988,Psychiatric Epidemiology,M.P.H.
+ROBYN,BLUHM,Philosophy & Religious Studies,University of Western Ontario,2005,Philosophy,Ph. D.
+ALEXANDER,BOCHDANSKY,"Ocean, Earth & Atmospheric Sciences",Memorial University Of Newfoundland (Canada),1997,Biological Oceanography,Ph. D.
+PRZEMYSLAW,BOGACKI,Department of Mathematics & Statistics,TX,1990,Mathematical Sciences,Ph. D.
+JOHN,BRANCH,Human Movement Sciences,University of South Carolina,1993,Exercise Science,Ph. D.
+LINDAL,BUCHANAN,English,MS,"",Psychology,B.A.
+STEPHEN,BUELTMANN,Physics,Bielefeld University (Germany),1996,Physics,Ph. D.
+LAN,CAO,Information Technology & Decision Sciences,GA,"",Computer Information Systems,Ph. D.
+MICHALE,CARHART,History,Rutgers University,1999,History,Ph. D.
+DIANNE,CARMODY,Sociology & Criminal Justice,University Of New Hampshire,1991,Sociology/Criminology,Ph. D.
+ROBERT,CASE,Business Gateway,Georgia Institute of Technology,1993,Civil Engineering,M.A.
+MECIT,CETIN,Civil & Environmental Engineering,NY,2002,Transportation Engineering,Ph. D.
+ALLISON,CHAPPELL,Sociology & Criminal Justice,University Of Florida,2005,Sociology,Ph. D.
+DEAN,CHATFIELD,Information Technology & Decision Sciences,Pennsylvania State University,2001,Management Science and Information Systems,Ph. D.
+MICHAEL,CLEMONS,Political Science & Geography,Atlanta University,1987,Political Science,Ph. D.
+CHRISTOPHER,COLBURN,Economics,Texas A & M University,1988,Economics,Ph. D.
+FAYE,COLEMAN,Medical Diagnostic & Translational Sciences,VA,"","PhD Program Urban Services, Health Services Track",ABD
+CAROL,CONSIDINE,Engineering Technology,University of California - Berkeley,1988,Civil Engineering,M.S.
+DAVID,COOK,""
+JOHN,COOPER,Chemistry & Biochemistry,North Carolina State University,1990,Physical Inorganic Chemistry,Ph. D.
+JOSEPH,COSCO,English,College of William & Mary,1999,"American Studies, with concentration in 19th-century literature and social history",Ph. D.
+LAURIE,CRAIGEN,Counseling & Human Services,VA,2006,School Psychology and Counselor Education,Ph. D.
+MARTHA,DAAS,Foreign Languages & Literatures,University of Texas - Austin,2002,Hispanic Literature,Ph. D.
+SUSAN,DANIEL,Dental Hygiene
+DONALD,DAVIS,Department of Psychology,MI,1982,Psychology,Ph. D.
+DIANA,DEADRICK,Department of Management,Virginia Polytechnic Institute & State University,1987,Human Resource Management,Ph. D.
+DIANNE,DEBEIXEDON,Department of Art,GA,1973,Metalsmithing and Jewelry,M.F.A.
+NOROU,DIAWARA,Department of Mathematics & Statistics,AL,2006,Mathematical Statistics,Ph. D.
+DANIEL,DICKERSON,STEM Education & Professional Studies,North Carolina State University,2003,Science Education,Ph. D.
+JOHN,DONAT,Chemistry & Biochemistry,University Of California,1988,Chemistry,Ph. D.
+MICHAEL,DOVIAK,Department of Mathematics & Statistics,University Of Florida,1975,Statistics,Ph. D.
+JOZEF,DUDEK,Physics,University of Oxford,UK,Theoretical Physics,D. Phil.
+JILL,DUSTIN,Counseling & Human Services,University of Cincinnati,1996,Doctor of Education in Counselor Education and Supervision,Ed.D.
+DAVID,EARNEST,Political Science & Geography,The George Washington University,2004,Political Science,Ph. D.
+MARY,ENDERSON,STEM Education & Professional Studies,The University of Georgia,1995,Mathematics Education,Ph. D.
+A,ENGLISH,Community & Environmental Health,VA,1982,Community Health Education,M.S.
+MUJDE,ERTEN-UNAL,Civil & Environmental Engineering,University of Missouri - Rolla,1988,Civil Engineering,Ph. D.
+PETER,EUDENBACH,Department of Art,The Ohio State University,1995,Sculpture,M.F.A.
+LARRY,FILER,Economics,KY,1999,Economics,Ph. D.
+JENNIFER,FISH,Women's Studies,DC,2003,Sociology with emphasis Global Sociology and Race/Class/Gender,Ph. D.
+CHARLENE,FLEENER,Teaching & Learning,Texas A & M University - Commerce,1998,"Supervision, Curriculum, and Instruction/Elementary Education",Ed.D.
+ISAAC,FLORY,Engineering Technology,Virginia Polytechnic Institute & State University,2008,Electrical Engineering,Ph. D.
+HOLLY,GAFF,Department of Biological Sciences,University Of Tennessee - Knoxville,1999,Mathematics,Ph. D.
+KURT,GAUBATZ,Political Science & Geography,CA,1993,Political Science,Ph. D.
+DAVID,GAUTHIER,Department of Biological Sciences,Virginia Institute of Marine Science,The College of William & Mary,Marine Science,Ph. D.
+JENNIFER,GEORGEN,"Ocean, Earth & Atmospheric Sciences",Massachusetts Institute of Technology/Woods Hole Oceanographic Institution Joint Program in Oceanography,2001,Oceanography (Marine Geology and Geophysics),Ph. D.
+ALEXANDER,GODUNOV,Physics,Moscow State University,(Russia),Atomic and Plasma Physics,Ph. D.
+EDWIN,GOMEZ,Human Movement Sciences,VA,2007,Applied Linguistics,Certified in Teaching English as a Second Language
+MAHESH,GOPINATH,Marketing Department,University of Michigan,1996,Social Psychology,M.S.
+ANDREW,GORDUS,Foreign Languages & Literatures,Arizona State University,2003,20th Century Latin American literature,Ph. D.
+WILLIAM,GRAY,Electrical & Computer Engineering,Georgia Institute Of Technology,1989,Electrical Engineering,Ph. D.
+LESLEY,GREENE,Chemistry & Biochemistry,University Of Miami,1998,Biochemistry,Ph. D.
+DENNIS,GREGORY,Educational Foundations & Leadership,University of Virginia,1987,Higher Education Administration,Ed.D.
+GAIL,GRISETTI,3114 Health Sciences Bldg,Manhattan Training Program,2002,Guild Certified Feldenkrais Practitioner,Guild Certified Feldenkrais Practitioner
+TIMOTHY,GROTHAUS,Counseling & Human Services,The College of William and Mary,2004,Counselor Education,Ph. D.
+ABHA,GUPTA,Teaching & Learning,University Of Arizona,1991,"Language, Reading and Culture",Ph. D.
+JOHN,HACKWORTH,Engineering Technology,VA,1990,Electrical Engineering,M.E.
+QIU,HAILSTORK,History,University of Hawaii,1995,History,Ph. D.
+RUSSELL,HAINES,Information Technology & Decision Sciences,TX,2002,Management Information Systems,Ph. D.
+JAMES,HALL,""
+CHRISTOPHER,HANNA,Communication & Theatre Arts,University Of California - San Diego,1982,"Theatre, Directing",M.F.A.
+ZHI,HAO,Mechanical & Aerospace Engineering,FL,2000,"Mechanical Engineering, Materials Science/Mechanics",Ph. D.
+BARBARA,HARGRAVE,Medical Diagnostic & Translational Sciences,VA,"",B.S.,B.S.
+FRANCES,HASSENCAHL,Communication & Theatre Arts,OH,1970,Communication,Ph. D.
+DANICA,HAYS,Counseling & Human Services,Virginia,"",Licensed Professional Counselor,Licensed Professional Counselor
+JING,HE,Computer Science Department,TX,2001,Structural & Computational Biology & Molecular Biophysics,Ph. D.
+LOREE,HELLER,Medical Diagnostic & Translational Sciences,OR,"",Microbiology,B.S.
+LAURIE,HENRY,Accounting,University Of Mississippi,1993,Accounting,Ph. D.
+JAMES,HENSON,Department of Psychology,University Of California - Los Angeles,2004,Quantitative Psychology,Ph. D.
+PATRICK,HESTER,Engineering Management & Systems Engineering,TN,2007,"Risk and Reliability Engineering and Management,",Ph. D.
+KAAVONIA,HINTON-JOHNSON,Teaching & Learning,The Ohio State University,2003,English Education,Ph. D.
+JOYCE,HOFFMANN,English,NY,1994,American Studies,Ph. D.
+ALVIN,HOLDER,Chemistry & Biochemistry,University of the West Indies,1994,Inorganic Chemistry,Ph. D.
+LISA,HORTH,Department of Biological Sciences,FL,2001,Ecological Genetics,Ph. D.
+JODY,HOWARD,Teaching & Learning,KS,2008,Library and Information Management,Ph. D.
+MICHAEL,HUCLES,History,Purdue University,1990,History,Ph. D.
+ANGELICA,HUIZAR,Foreign Languages & Literatures,University Of California - Irvine,2003,Spanish,Ph. D.
+LOUIS,JANDA,Department of Psychology,Arizona State University,1972,Clinical Psychology,Ph. D.
+HUEIWANG ANNA,JENG,Community & Environmental Health,Tulane University,2002,Public Health (Environmental Health Sciences),Sc.D.
+AUSTIN,JERSILD,History,University of California - Davis,1994,History,Ph. D.
+CHUNQI,JIANG,Frank Reidy Center for Bioelectrics,VA,2002,Electrical Engineering,Ph. D.
+ELLIOTT,JONES,Department of Art,Ohio State University,1976,Painting and Drawing,M.F.A.
+ERIN,JORDAN,History,IA,2000,Medieval European History,Ph. D.
+MEAGAN,JORDAN,Public Service,KY,1999,Public Administration,Ph. D.
+ELAINE,JUSTICE,Department of Psychology,University Of Cincinnati,1980,Developmental Psychology,Ph. D.
+KAREN,KARLOWICZ,Nursing,FL,2002,Health Care Education,Ed.D.
+REGINA,KARP,Political Science & Geography,University of Lancaster (United Kingdom),1985,Political Science,Ph. D.
+PETROS,KATSIOLOUDIS,STEM Education & Professional Studies,North Carolina State University,2007,Technology Education,Ed.D.
+JANET,KATZ,College of Arts & Letters,State University Of New York - Albany,1980,Criminal Justice,Ph. D.
+AMANDA,KINZER,Communication & Theatre Arts,NC,2000,Performance and Choreography,M.F.A.
+NANCY,KLEIN,Department of Music,NY,1986,Music in Higher Education,Ph. D.
+MILTIADIS,KOTINIS,Mechanical & Aerospace Engineering,University of Michigan,2005,"Mechanical Eng., Naval Architecture and Marine Engineering",Ph. D.
+KAREN,KOTT,3106 Health Sciences Bldg,State University Of New York at Buffalo,1997,Learning and Instruction-Special Education,Ph. D.
+PIOTR,KRAJ,Department of Biological Sciences,Polish Academy of Sciences,1995,Immunology & Experimental Therapy,Ph. D.
+JOHN,KROLL,Department of Mathematics & Statistics,CT,1973,Engineering & Applied Science,Ph. D.
+DEAN,KRUSIENSKI,Electrical & Computer Engineering,The Pennsylvania State University,2004,Electrical Engineering,Ph. D.
+VISHNUKUMAR,LAKDAWALA,Electrical & Computer Engineering,University of Liverpool (United Kingdom),1980,Electrical Engineering,Ph. D.
+RAFAEL,LANDAETA,Engineering Management & Systems Engineering,FL,2003,Industrial Engineering,Ph. D.
+MARK,LANE,Finance Department,University of Missouri - Columbia,1997,Business Administration,Ph. D.
+DAVID,LASSEIGNE,Department of Mathematics & Statistics,IL,1985,Applied Mathematics,Ph. D.
+CAROLYN,LAWES,History,University of California - Davis,"",History,Ph. D.
+ROLAND,LAWRENCE,Engineering Technology,North Carolina State University,1992,Electrical Engineering,Ph. D.
+JAMES,LEATHRUM,"Modeling, Simulation & Visualization Engineering",NC,1992,Electrical Engineering,Ph. D.
+WILLIAM,LEAVITT,Public Service,University of Colorado Graduate School of Public Affairs,1986,Public Administration,Ph. D.
+GUANG-LEA,LEE,Teaching & Learning,University of Minnesota,1993,Reading Education,Ph. D.
+JAMES,LEE,Chemistry & Biochemistry,NY,1993,Photosynthesis Research and Physcial Chemistry,Ph. D.
+SOO-HOON,LEE,Department of Management,University of Washington,1993,Business Administration - Human Resource Management,Ph. D.
+JONATHAN,LEIB,Political Science & Geography,NY,1992,Geography,Ph. D.
+IRWIN,LEVINSTEIN,Computer Science Department,VA,1984,Computer Science,M.S.
+JIANG,LI,Electrical & Computer Engineering,University of Texas - Arlington,2004,Electrical Engineering,Ph. D.
+YAOHANG,LI,Computer Science Department,FL,2003,Computer Science,Ph. D.
+HUA,LIU,Political Science & Geography,IN,2007,Geography,Ph. D.
+JOHN,LOMBARD,Public Service,State University Of New York - Buffalo,1990,Economic Geography,Ph. D.
+SCOTT,MAGGARD,Sociology & Criminal Justice,FL,2006,Sociology,Ph. D.
+GEORGE,MAIHAFER,3116 Health Sciences Bldg,VA,1992,Urban Services,Ph. D.
+JINGDONG,MAO,Chemistry & Biochemistry,The University Of Massachusetts,2000,Soil Chemistry and Solid-state NMR spectroscopy (focused on NMR spectroscopy),Ph. D.
+MARILYN,MARLOFF,Communication & Theatre Arts,University of Oklahoma,1987,Dance,M.F.A.
+JOHN,MCCONAUGHA,"Ocean, Earth & Atmospheric Sciences",University Of Southern California,1977,Biology,Ph. D.
+SUEANNE,MCKINNEY,Teaching & Learning,VA,2000,Urban Services,Ph. D.
+JOHN,MCMANUS,English,James A. Michener Center for Writers at the University of Texas at Austin,2004,Creative Writing,M.F.A.
+MICHAEL,MCSHANE,Finance Department,MS,2007,Finance,Ph. D.
+GORDON,MELROSE,Department of Mathematics & Statistics,VA,1984,Computational and Applied Mathematics,Ph. D.
+JANE,MERRITT,History,University of Washington,1995,History,Ph. D.
+TAMMI,MILLIKEN,Counseling & Human Services,The College of William and Mary,2004,Counselor Education and Supervision,Ph. D.
+SARA,MORRIS,Department of Management,University Of Texas - Austin,1987,Management (Policy and Strategy),Ph. D.
+MOUSTAFA,MOUSTAFA,Engineering Technology,University of Illinois,1979,Structures and Stress Analysis,M.S.
+STEVEN,MYRAN,Educational Foundations & Leadership,VA,2003,Education,Ph. D.
+GON,NAMKOONG,Electrical & Computer Engineering,Georgia Institute of Technology,2003,Electrical and Computer Engineering,Ph. D.
+MICHAEL,NELSON,Computer Science Department,VA,2000,Computer Science,Ph. D.
+KNEELAND,NESIUS,Department of Biological Sciences,University Of Oklahoma,1973,Botany/Plant Physiology,Ph. D.
+RICHARD,NICKEL,Department of Art,PA,2000,Ceramics,M.F.A.
+NORA,NOFFKE,"Ocean, Earth & Atmospheric Sciences",University of Oldenburg,1997,Geomicrobiology,Ph. D.
+RICHARD,NOREN,Department of Mathematics & Statistics,Virginia Polytechnic Institute & State University,1985,Mathematics,Ph. D.
+EMILIA,OLESZAK,Department of Biological Sciences,Hirszfeld Institute of Immunology and Experimental Therapy,Polish Academy Of Science,Virology,Ph. D.
+CHRISTOPHER,OSGOOD,Department of Biological Sciences,RI,1977,Biology,Ph. D.
+DOUGLAS,OWENS,Department of Music,CO,2003,Music Education,"Doctor of Arts, Music"
+MIGUEL,PADILLA,Department of Psychology,FL,2005,Research and Evaluation Methodology,Ph. D.
+KAY,PALMER,Nursing,Loyola University of Chicago,1973,M.S.N.,M.S.N.
+RADHA,PARKER,Counseling & Human Services,University of Virginia,1986,Counselor Education,Ph. D.
+JAMES,PAULSON,Department of Psychology,The University of North Carolina - Greensboro,2002,Clinical Psychology,Ph. D.
+MARIA,PAZOS-LAGO,Engineering Management & Systems Engineering,TX,2005,Industrial Engineering emphasis in Engineering Management,Ph. D.
+YVETTE,PEARSON,Philosophy & Religious Studies,University Of Miami,2002,Philosophy,Ph. D.
+YAN,PENG,Department of Mathematics & Statistics,National University of Singapore,2005,Computational Fluid Dynamics,Ph. D.
+CESAR,PINTO,Engineering Management & Systems Engineering,University of Virginia,2002,Systems Engineering,Ph. D.
+PATRICIA,PLEBAN,Chemistry & Biochemistry,OH,1979,Chemistry (Clinical),Ph. D.
+DIMITRIE,POPESCU,Electrical & Computer Engineering,Rutgers University,2002,Electrical and Computer Engineering,Ph. D.
+JENNIFER,POUTSMA,Chemistry & Biochemistry,University Of California - Los Angeles,1997,Organic Chemistry,Ph. D.
+GRETA,PRATT,Department of Art,State University Of New York - New Paltz,2005,Intermedia Design,M.F.A.
+SHANA,PRIBESH,Educational Foundations & Leadership,The Ohio State University,2005,Sociology,Ph. D.
+STEPHEN,PULLEN,Communication & Theatre Arts,University Of Southern California,1998,Film and Television,M.F.A.
+SHIZHI,QIAN,Mechanical & Aerospace Engineering,PA,2004,Mechanical Engineering and Applied Mechanics/Microfluidics,Ph. D.
+GHAITH,RABADI,Engineering Management & Systems Engineering,FL,1999,Industrial Engineering,Ph. D.
+BALASUBRAMANIAN,RAMJEE,Chemistry & Biochemistry,Indian Institute Of Science,2001,Organic Chemistry,Ph. D.
+ROBERT,RATZLAFF,Department of Biological Sciences,University Of South Dakota School of Medicine,1982,Microbiology,Ph. D.
+PHILIP,REED,STEM Education & Professional Studies,Virginia Polytechnic Institute & State University,2000,"Education, Curriculum, and Instruction",Ph. D.
+MARK,REHFUSS,Counseling & Human Services,Kent State University,2004,Counseling and Human Development Services,Ph. D.
+GEORGE,RHIEL,Information Technology & Decision Sciences,CO,1978,Research and Statistical Methodology,Ph. D.
+JESSE,RICHMAN,Political Science & Geography,Carnegie-Mellon University,2005,Political Science,Ph. D.
+LYNN,RIDINGER,Human Movement Sciences,The Ohio State University,1998,Sport Management,Ph. D.
+STACIE,RINGLEB,Mechanical & Aerospace Engineering,PA,2003,Mechanical Engineering,Ph. D.
+JACK,ROBINSON,Educational Foundations & Leadership,IA,1974,Educational Psychology,Ph. D.
+JULIA,ROMBERGER-DEPEW,English,Purdue University,2004,Rhetoric and Composition,Ph. D.
+KEVIN,ROMBERGER-DEPEW,English,Purdue University,2003,"English, Rhetoric and Composition",Ph. D.
+JOHN,ROTH,Department of Art,University of Wisconsin - Madison,1990,Painting and Sculpture,M.F.A.
+DAWN,ROTHE,Sociology & Criminal Justice,MI,2006,Sociology,Ph. D.
+BRUCE,RUBIN,Finance Department,OH,1978,Financial Economics,Ph. D.
+BURTON,SAINT JOHN,Communication & Theatre Arts,MO,2005,American Studies,Ph. D.
+AVI,SANTO,Communication & Theatre Arts,University of Texas - Austin,2006,Radio-Television-Film,Ph. D.
+KAREN,SANZO,Educational Foundations & Leadership,The George Washington University,2006,Education Administration and Policy Studies,Ed.D.
+JOANNE,SCHEIBMAN,English,University of New Mexico,2000,Linguistics,Ph. D.
+MATTHEW,SCHMIDT,"Ocean, Earth & Atmospheric Sciences",University of California - Davis,2005,Geology,Ph. D.
+SCOTT,SECHRIST,Medical Diagnostic & Translational Sciences,The College Of William & Mary,2000,Higher Education Administration,Ed.D.
+PETER,SEDWICK,"Ocean, Earth & Atmospheric Sciences",HI,1991,Oceanography,Ph. D.
+TIMOTHY,SEIBLES,English,Vermont College of Norwich University,1990,Writing (Creative Writing/Poetry),M.F.A.
+DAVID,SELOVER,Economics,University of California - San Diego,1991,Economics,Ph. D.
+STEPHEN,SHAPIRO,Human Movement Sciences,CO,2008,Sport and Exercise Science,Ph. D.
+YUZHONG,SHEN,"Modeling, Simulation & Visualization Engineering",DE,2004,Electrical Engineering,Ph. D.
+DONALD,SMITH,Sociology & Criminal Justice,GA,1972,Sociology,Ph. D.
+JOHN,SOKOLOWSKI,"Virginia Modeling, Analysis & Simulation Center",VA,2003,Modeling and Simulation,Ph. D.
+C,SOMMA,Medical Diagnostic & Translational Sciences,The College Of William & Mary,1988,Higher Education Administration,Ed.D.
+ANDRES,SOUSA-POZA,Engineering Management & Systems Engineering,University of Missouri - Rolla,1999,Engineering Management,Ph. D.
+RALPH,STEVENS,Department of Biological Sciences,University Of Texas - Health Science Center - Houston,1983,Reproductive Medicine and Biology,Ph. D.
+MELVINA,SUMTER,Sociology & Criminal Justice,FL,1999,Criminology and Criminal Justice,Ph. D.
+LICHENG,SUN,Finance Department,GA,2002,Finance,Ph. D.
+MARIANA,SZKLO,Community & Environmental Health,The Johns Hopkins University Bloomberg School of Public Health,2001,Health Education and Health Promotion,Ph. D.
+MICHAEL,TAMBURELLO,3112 Health Sciences Bldg,University Of Virginia,1992,Sports Medicine,Ph. D.
+SOPHIE,THOMPSON,Medical Diagnostic & Translational Sciences,Medical University Of  South Carolina,1984,Allied Health Sciences Education,M.H.S.
+LINDA,VAHALA,Batten College of Engineering & Technology,VA,1983,Applied Physics,Ph. D.
+MARTHA,WALKER,3118 Health Sciences Bldg,VA,2005,Health Related Sciences,Ph. D.
+DEBORAH,WALLER,Department of Biological Sciences,University Of Texas - Austin,1982,Zoology,Ph. D.
+JIN,WANG,Department of Mathematics & Statistics,Ohio State University,2004,Mathematics,Ph. D.
+XIXI,WANG,Civil & Environmental Engineering,IA,2001,Agricultural and Biosystems Engineering,Ph. D.
+SILVANA,WATSON,Communication Disorders & Special Education,University of New Mexico,1994,Learning Disabilities,Ph. D.
+GINGER,WATSON-PAPELIS,STEM Education & Professional Studies,University Of Iowa,1998,"Instructional Design & Technology, Psychological and Quantitative Foundations",Ph. D.
+MICHELE,WEIGLE,Computer Science Department,University Of North Carolina,2003,Computer Science,Ph. D.
+MAREK,WERMUS,Information Technology & Decision Sciences,Technical University of Wroclaw (Poland),1977,Economics,Ph. D.
+INGRID,WHITAKER,Sociology & Criminal Justice,University Of Michigan,1997,Sociology and Social Work,Ph. D.
+GARLAND,WHITE,Sociology & Criminal Justice,University of Washington,1970,Sociology,Ph. D.
+GEORGE,WHITTECAR,"Ocean, Earth & Atmospheric Sciences",University Of Wisconsin,1979,Departments of Geology-Geophysics and Geography(jointly granted degree),Ph. D.
+KONRAD,WINTERS,Communication & Theatre Arts,IL,1982,Scenic Design,M.F.A.
+CHRISTOPHER,WOOD,""
+HARRIS,WU,Information Technology & Decision Sciences,University of Michigan,2005,Business Information Technology,Ph. D.
+CHUNSHENG,XIN,Electrical & Computer Engineering,State University of New York at Buffalo,2002,Computer Science and Engineering,Ph. D.
+YIN,XU,Accounting,University Of South Carolina - Columbia,2001,Business Administration/Accounting,Ph. D.
+CHERNG-JYH,YEN,Educational Foundations & Leadership,University of Virginia,Curry School of Education,Educational Research,Ph. D.
+JAEWAN,YOON,Civil & Environmental Engineering,North Dakota State University,1993,Civil Engineering,Ph. D.
+JUITA,YUSUF,Public Service,KY,2007,Public Administration,Ph. D.
+ALLA,ZAREVA,English,GA,2004,Linguistics,Ph. D.
+STEVEN,ZEIL,Computer Science Department,Ohio State University,1981,Computer Science,Ph. D.
+QI,ZHANG,Community & Environmental Health,University of Alabama,2001,Economics,Ph. D.
+HAIWEN,ZHOU,Economics,University of Maryland,2002,Economics,Ph. D.
+RUHAI,ZHOU,Department of Mathematics & Statistics,University Of New Mexico,2001,Applied Mathematics,Ph. D.
+H,ABDEL-WAHAB,Computer Science Department,Waterloo University,1976,Computer Communications,Ph. D.
+JOHN,ADAM,Department of Mathematics & Statistics,University College,1975,Theoretical Astrophysics/Applied Mathematics,Ph. D.
+FRANCIS,ADAMS,Political Science & Geography,NY,1992,International Relations and Comparative Politics,Ph. D.
+VINOD,AGARWAL,2061 Constant Hall,University of California - Santa Barbara,1977,Economics,Ph. D.
+THOMAS,ALBERTS,Mechanical & Aerospace Engineering,Georgia Institute of Technology,1986,"Mechanical and Aerospace Eng., Dynamics and Controls, Vibrations, Robotics",Ph. D.
+MOSKOV,AMARYAN,Physics,Yerevan Physics Institute (Armenia),1993,Physics of Atomic Nuclei and Elementary Particles,Ph. D.
+ALIREZA,ARDALAN,2013 Constant Hall,AZ,1983,Business Administration,Ph. D.
+ROBERT,ASH,Mechanical & Aerospace Engineering,Tulane University,1968,"Mechanical and Aerospace Eng., Thermo/Fluids",Ph. D.
+LARRY,ATKINSON,"Ocean, Earth & Atmospheric Sciences",Dalhousie University,1972,Oceanography,Ph. D.
+ERLAND,BAESLER,Communication & Theatre Arts,AZ,1991,Communication,Ph. D.
+IAN,BALITSKY,Physics,Petersburg Nuclear Physics Institute (Russia),1984,Theoretical Physics,Ph. D.
+HAN,BAO,Mechanical & Aerospace Engineering,University of New South Wales (Australia),1976,"Mechanical and Aerospace Eng., Manufacturing/Design",Ph. D.
+HELMUT,BAUMGART,Electrical & Computer Engineering,University of Stuttgart and Max-Planck Institute of Solid State,Research,Physics,Ph. D.
+SEBASTIAN,BAWAB,Mechanical & Aerospace Engineering,Ohio State University,1992,"Mechanical Engineering, Design/Mechanics",Ph. D.
+OKTAY,BAYSAL,Batten College of Engineering & Technology,Louisiana State University,1982,Aerospace Engineering,Ph. D.
+CRAIG,BAYSE,Chemistry & Biochemistry,Texas A & M University,1998,Chemistry (Physical Chemistry),Ph. D.
+THOMAS,BEAN,Teaching & Learning,Arizona State University,1976,Secondary Education,Ph. D.
+STEVEN,BECKER,Community & Environmental Health,PA,1996,"Occupational & Environmental Health Program, Graduate School of Social Work & Social Research",Ph. D.
+PETER,BERNATH,Chemistry & Biochemistry,MA,1981,Physical Chemistry,Ph. D.
+JAMES,BLISS,Department of Psychology,University Of Central Florida,1993,Human Factors Psychology,Ph. D.
+LINDA,BOL,Educational Foundations & Leadership,University of California,Berkeley,Educational Psychology,Ph. D.
+WILLIAM,BRENNER,Philosophy & Religious Studies,University of Virginia,1970,Philosophy,Ph. D.
+COLIN,BRITCHER,Mechanical & Aerospace Engineering,Southampton University,1983,"Mechanical and Aerospace Eng., Test Facilities/Propulsion",Ph. D.
+KENNETH,BROWN,""
+NINA,BROWN,Counseling & Human Services,VA,"",Counseling,Advanced Certificate
+DAVID,BURDIGE,"Ocean, Earth & Atmospheric Sciences",Scripps Institution of Oceanography,University Of California - San Diego,Oceanography,Ph. D.
+MARK,BUTLER,Department of Biological Sciences,FL,1988,Biological Science,Ph. D.
+KENT,CARPENTER,Department of Biological Sciences,University Of Hawaii,1985,Zoology,Ph. D.
+JOHN,CATRAVAS,Frank Reidy Center for Bioelectrics
+NARASINGA,CHAGANTY,Department of Mathematics & Statistics,FL,1982,Statistics,Ph. D.
+PAUL,CHAMPAGNE,Department of Management,University Of Massachusetts,1977,Sociology,Ph. D.
+SUSHIL,CHATURVEDI,Mechanical & Aerospace Engineering,OH,1975,"Mechanical Eng., Thermal/Fluids",Ph. D.
+NICOLAOS,CHRISOCHOIDES,Computer Science Department,Purdue University,1992,Computer Science,Ph. D.
+SHERI,COLBERG-OCHS,Human Movement Sciences,University Of California - Berkeley,1992,Exercise Physiology,Ph. D.
+DESMOND,COOK,Physics,Monash University (Australia),1978,Physics,Ph. D.
+GREGORY,CUTTER,"Ocean, Earth & Atmospheric Sciences",University Of California - Santa Cruz,1982,Chemistry,Ph. D.
+KENNETH,DALEY,Department of Art,CT,1965,Painting and Printmaking,M.F.A.
+MONA,DANNER,Sociology & Criminal Justice,DC,1993,Sociology: Justice,Ph. D.
+DANIEL,DAUER,Department of Biological Sciences,University of South Florida,1974,Biology,Ph. D.
+FRANK,DAY,Department of Biological Sciences,University Of Georgia,1974,Ecology,Ph. D.
+DECLAN,DE PAOR,Physics,National University of Ireland,1981,Geology,Ph. D.
+JEAN,DELAYEN,Physics,IL,1994,Business,M.B.A.
+AYODEJI,DEMUREN,Mechanical & Aerospace Engineering,Imperial College (U.K.),1979,"Mechanical Engineering, Thermo/Fluids, Computational Method",Ph. D.
+VALERIAN,DERLEGA,Department of Psychology,University Of Maryland,1971,Psychology,Ph. D.
+SHIRSHAK,DHALI,Batten College of Engineering & Technology,Texas Tech University - Lubbock,1984,Electrical Engineering,Ph. D.
+GAIL,DICKINSON,Darden College of Education,University of Virginia,2000,Educational Administration,Ph. D.
+FREDERICK,DOBBS,"Ocean, Earth & Atmospheric Sciences",FL,1987,Oceanography,Ph. D.
+GAIL,DODGE,Physics,CA,1993,Physics,Ph. D.
+J,DORREPAAL,Department of Mathematics & Statistics,University Of Toronto (Canada),1975,Applied Mathematics,Ph. D.
+JOHN,DOUKAS,Finance Department,NY,1982,Finance,Ph. D.
+HANI,ELSAYED-ALI,Electrical & Computer Engineering,University of Illinois,1985,Electrical Engineering,Ph. D.
+TAL,EZER,"Ocean, Earth & Atmospheric Sciences",FL,1989,Physical Oceanography,Ph. D.
+STEPHANIE,FINLEY-CROSWHITE,History,GA,1991,History,Ph. D.
+KENNETH,FITZGERALD,Department of Art,Massachusetts College Of Art,1996,Design,M.F.A.
+JOHN,FORD,Marketing Department,GA,1985,Business Administration - Marketing,Ph. D.
+ROBERT,GABLE,Communication Disorders & Special Education,George Peabody College,1977,Special Education,Ph. D.
+RANDY,GAINEY,Sociology & Criminal Justice,University of Washington,1995,Sociology,Ph. D.
+ADRIAN,GHEORGHE,Engineering Management & Systems Engineering,Academy of Economic Studies,1985,Business Administration,M.B.A.
+MYRON,GLASSMAN,Marketing Department,University of Illinois,1974,Advertising,M.S.
+OSCAR,GONZALEZ,Electrical & Computer Engineering,IN,1987,Electrical Engineering,Ph. D.
+RICHARD,GREGORY,Chemistry & Biochemistry,SC,1984,Physical Chemistry,Ph. D.
+JOHN,GRIFFITH,Finance Department,University of Alabama,1995,Finance,Ph. D.
+CHESTER,GROSCH,"Ocean, Earth & Atmospheric Sciences",Stevens Institute Of Technology,1967,Physics-Fluid Dynamics,Ph. D.
+ALEXANDER,GUREVICH,Physics,Institute of High Temperatures,USSR Academy of Sciences,Physics,Ph. D.
+IMTIAZ,HABIB,English,Indiana University,Bloomington,Literature-Renaissance,Ph. D.
+ADOLPHUS,HAILSTORK,Department of Music,MI,1971,Composition,Ph. D.
+MAURA,HAMETZ,History,MA,1995,History,Ph. D.
+HENRY,HARVEY,"Ocean, Earth & Atmospheric Sciences",GA,1985,Microbiology,Ph. D.
+LAWRENCE,HATAB,Philosophy & Religious Studies,NY,1976,Philosophy,Ph. D.
+PATRICK,HATCHER,Chemistry & Biochemistry,University Of Maryland,1980,Chemistry (Geochemistry),Ph. D.
+MARK,HAVEY,Physics,University Of New Hampshire,1977,Physics,Ph. D.
+INGO,HEIDBRINK,History,University of Bremen,2004,"Social and Economic History, Maritime History",Habilitation - Dr. Phil. Habil (German professorial degree beyond Dr. phil.)
+DANA,HELLER,English,City University Of New York,1989,English,Ph. D.
+RICHARD,HELLER,Frank Reidy Center for Bioelectrics,University of South Florida,1989,Medical Sciences,Ph. D.
+PEGGY,HESTER,Communication Disorders & Special Education,George Peabody College of Vanderbilt University,1978,Special Education/Early Childhood Education,Ph. D.
+EILEEN,HOFMANN,"Ocean, Earth & Atmospheric Sciences",North Carolina State University,1980,Marine Sciences and Engineering,Ph. D.
+ROBERT,HOLDEN,History,IL,1986,History,Ph. D.
+GENE,HOU,Mechanical & Aerospace Engineering,IA,1982,"Mechanical Engineering, Design/Mechanics",Ph. D.
+STEVE,HSIUNG,Engineering Technology,IA,1992,Industrial Technology,Ph. D.
+FANG,HU,Department of Mathematics & Statistics,FL,1990,Mathematics,Ph. D.
+JEN-KUANG,HUANG,Mechanical & Aerospace Engineering,MA,1983,"Mechanical and Aerospace Eng., Dynamics/Controls",Ph. D.
+SYLVIA,HUDGINS,Finance Department,Virginia Polytechnic Institute & State University,1987,Finance,Ph. D.
+CHARLES,HYDE,Physics,Massachusetts Institute Of Technology,1984,Physics,Ph. D.
+WAYNE,HYNES,Department of Biological Sciences,Otago University (New Zealand),1985,Microbiology,Ph. D.
+KHAN,IFTEKHARUDDIN,Electrical & Computer Engineering,OH,1995,Electrical Engineering,Ph. D.
+LUISA,IGLORIA,English,University of Illinois - Chicago,1995,English/Creative Writing,Ph. D.
+LINDA,IRWIN-DEVITIS,Teaching & Learning,University of Tennessee,1988,Curriculum and Instruction,Ed.D.
+THOMAS,ISENHOUR,Chemistry & Biochemistry,Institute for Educational Management,Harvard University,Graduate,""
+ISAO,ISHIBASHI,Civil & Environmental Engineering,University of Washington,1974,Civil Engineering,Ph. D.
+EDWARD,JACOBS,English,University of Illinois,1990,English,Ph. D.
+CYNTHIA,JONES,"Ocean, Earth & Atmospheric Sciences",University Of Rhode Island,1984,Oceanography,Ph. D.
+SHARON,JUDGE,Communication Disorders & Special Education,University of California,Santa Barbara,Education; concentration in Special Education,Ph. D.
+WILLIAM,JUDGE,Department of Management,University of North Carolina,1989,Business Administration/Strategic Management,Ph. D.
+HIDEAKI,KANEKO,Department of Mathematics & Statistics,SC,1979,Applied Functional Analysis,Ph. D.
+KIRAN,KARANDE,Marketing Department,TX,1994,Marketing,Ph. D.
+ANDREY,KASPAROV,Department of Music,Indiana University School of Music,1999,Music Composition,Ph. D.
+CHARLES,KEATING,Engineering Management & Systems Engineering,VA,1993,Engineering Management,Ph. D.
+MICHELLE,KELLEY,Department of Psychology,University Of Houston,1988,Developmental Psychology,Ph. D.
+JOHN,KLINCK,"Ocean, Earth & Atmospheric Sciences",North Carolina State University,1980,Marine Science,Ph. D.
+JAMES,KOCH,Economics,IL,1968,Economics,Ph. D.
+MICHAEL,KONG,Frank Reidy Center for Bioelectrics,Liverpool University,1992,Electrical Engineering,Ph. D.
+JAMES,KOSNIK,Department of Music,Eastman School of Music,1979,Performance and Literature (Organ),D.M.A.
+SEBASTIAN,KUHN,Physics,University Of Bonn (Germany),1986,Physics,Ph. D.
+DREW,LANDMAN,Mechanical & Aerospace Engineering,VA,1998,"Aerospace Eng., Experimental Aerodynamics",Ph. D.
+PHILIP,LANGLAIS,Department of Psychology,MA,1985,Psychology,Ph. D.
+MOUNIR,LAROUSSI,Electrical & Computer Engineering,University of Tennessee,Knoxville,Electrical Engineering,Ph. D.
+LORRAINE,LEES,History,Pennsylvania State University,1976,History,Ph. D.
+ROBIN,LEWIS,Department of Psychology,University Of Kansas,1984,Clinical Psychology,Ph. D.
+LING,LI,Information Technology & Decision Sciences,Ohio State University,1996,Operations Management/Logistics,Ph. D.
+SHAOMIN,LI,Department of Management,NJ,1988,Sociology,Ph. D.
+CHENG,LIN,Engineering Technology,Texas A & M University,1989,Mechanical Engineering,Ph. D.
+YUPING,LIU-THOMPKINS,Marketing Department,Rutgers University,2002,Management (Marketing Concentration),Ph. D.
+FREDERICK,LUBICH,Foreign Languages & Literatures,University Of California - Santa Barbara,1983,German Literature,Ph. D.
+ROBERT,LUCKING,Teaching & Learning,University of Nebraska,"",English/Speech,B.A.
+LI-SHI,LUO,Department of Mathematics & Statistics,Georgia Institute Of Technology,1993,Physics,Ph. D.
+BHARAT,MADAN,"Modeling, Simulation & Visualization Engineering",Indian Institute of Technology,1976,Electrical Engineering,Ph. D.
+DEBRA,MAJOR,Department of Psychology,MI,1992,Industrial/Organizational Psychology,Ph. D.
+KURT,MALY,Computer Science Department,Courant Institute of Mathematical Sciences,New York University,Computer Science,Ph. D.
+M,MANNING,Teaching & Learning,University of South Carolina,1978,Elementary Education,Ph. D.
+EDWARD,MARKOWSKI,Information Technology & Decision Sciences,Pennsylvania State University,1980,Statistics,Ph. D.
+SYLVAIN,MARSILLAC,Electrical & Computer Engineering,University of Nantes,1996,Materials Science and Engineering,Ph. D.
+GARRETT,MCAULIFFE,Counseling & Human Services,University of Massachusetts,1985,Counseling,Ed.D.
+GAYLE,MCCOMBS,Dental Hygiene,University of North Carolina - Chapel Hill,1993,Dental Auxiliary Teacher Education,M.S.
+FREDERIC,MCKENZIE,"Modeling, Simulation & Visualization Engineering",FL,1994,Computer Engineering,Ph. D.
+BERHANU,MENGISTU,Public Service,DE,1982,Urban Affairs,Ph. D.
+DAVID,METZGER,Honors College,Hebrew College (Boston),2006,Jewish Studies,M.A.
+ROLAND,MIELKE,"Modeling, Simulation & Visualization Engineering",University of Wisconsin,1975,Electrical Engineering,Ph. D.
+DALE,MILLER,Philosophy & Religious Studies,University of Pittsburgh,1999,Philosophy,Ph. D.
+ELIZABETH,MONK TURNER,Sociology & Criminal Justice,MA,1982,Sociology,Ph. D.
+KENNETH,MOPPER,Chemistry & Biochemistry,MIT/Woods Hole Oceanographic Institute,1973,Chemical Oceanography,Ph. D.
+JOHN,MORRIS,Public Service,AL,1994,Public Policy and Administration,Ph. D.
+STEVEN,MORRISON,3118 Health Sciences Bldg,Pennsylvania State University,1997,Motor Control,Ph. D.
+MANUELA,MOURAO,English,University of Illinois,1990,Comparative Literature,Ph. D.
+RAVI,MUKKAMALA,Computer Science Department,VA,1993,M.B.A.,M.B.A.
+MARGARET,MULHOLLAND,"Ocean, Earth & Atmospheric Sciences",University Of Maryland,1998,Biological Oceanography,Ph. D.
+LYTTON,MUSSELMAN,Department of Biological Sciences,University Of North Carolina,1974,Botany,Ph. D.
+ANIL,NAIR,Department of Management,NIT,"",B.Tech,B.Tech
+MOHAMMAD,NAJAND,Finance Department,NY,1988,Finance,Ph. D.
+EDWARD,NEUKRUG,Counseling & Human Services,University of Cincinnati,1980,Counselor Education,Ed.D.
+BRETT,NEWMAN,Mechanical & Aerospace Engineering,Purdue University,1992,School of Aeronautics and Astronautics,Ph. D.
+DUC,NGUYEN,Civil & Environmental Engineering,IA,1982,Civil Engineering,Ph. D.
+AHMED,NOOR,"Modeling, Simulation & Visualization Engineering",University of Illinois - Urbana - Champaign,1963,Structural Mechanics,Ph. D.
+ROY,OGLE,Medical Diagnostic & Translational Sciences,University of Virginia,1985,Cell and Molecular Biology,Ph. D.
+STEPHAN,OLARIU,Computer Science Department,McGill University,1986,Computer Science,Ph. D.
+RICHARD,OVERBAUGH,Teaching & Learning,WV,1992,Curriculum and Instruction,Ed.D.
+WILLIAM,OWINGS,Educational Foundations & Leadership,Virginia Polytechnic Institute & State University,1987,Educational Administration and Supervision,Ed.D.
+STEVEN,PASCAL,Chemistry & Biochemistry,FL,1993,Molecular Biophysics,Ph. D.
+BRIAN,PAYNE,Academic Affairs,Indiana University of Pennsylvania,1993,Criminology,Ph. D.
+MICHAEL,PEARSON,English,NY,"",English/Creative Writing,B.A.
+JANET,PEERY,English,KS,1992,"Creative Writing, Fiction",M.F.A.
+HANS-PETER,PLAG,"Ocean, Earth & Atmospheric Sciences",Free University of Berlin,1988,Geophysics,Ph. D.
+KAREN,POLONKO,Sociology & Criminal Justice,Indiana University,1979,Sociology,Ph. D.
+BRYAN,PORTER,Department of Psychology,University Of Memphis,1996,Experimental Psychology,Ph. D.
+RAMAMURTHY,PRABHAKARAN,Mechanical & Aerospace Engineering,IL,1970,"Mechanical Eng., Mechanics/Materials Science",Ph. D.
+ANATOLY,RADYUSHKIN,Physics,Moscow State University (Russia),1978,Physics,Ph. D.
+DESH,RANJAN,Computer Science Department,NY,1992,Computer Science,Ph. D.
+SHARON,RAVER-LAMPMAN,Communication Disorders & Special Education,University of South Florida,1985,Special Education,Ph. D.
+ANASTASIA,RAYMER,Communication Disorders & Special Education,FL,1992,Speech-Language Pathology,Ph. D.
+ZIA,RAZZAQ,Civil & Environmental Engineering,Washington University,1974,Civil Engineering,D.Sc.
+SHERI,REYNOLDS,English,VA,1992,Creative Writing,M.F.A.
+JOHN,RITZ,STEM Education & Professional Studies,WV,1977,Technology Education,Ed.D.
+CAROLYN,RUTLEDGE,Nursing,VA,2001,Urban Studies/Health Services track,Ph. D.
+MARK,SCERBO,Department of Psychology,University Of Cincinnati,1987,Psychology,Ph. D.
+GARY,SCHAFRAN,Civil & Environmental Engineering,NY,1988,Civil Engineering,Ph. D.
+ROCCO,SCHIAVILLA,Physics,University Of Illinois,1987,Theoretical Nuclear Physics,Ph. D.
+PETER,SCHULMAN,Foreign Languages & Literatures,Columbia University,1997,French and Romance Philology,Ph. D.
+ALAN,SCHWITZER,Counseling & Human Services,VA,1990,Counseling Psychology,Ph. D.
+JAY,SCRIBNER,Educational Foundations & Leadership,WI,1997,Educational Administration,Ph. D.
+BRUCE,SEIFERT,Finance Department,University Of Michigan,1978,International Business,Ph. D.
+GREGORY,SELBY,Mechanical & Aerospace Engineering,VA,1990,Psychology,B.S.
+SIMON,SERFATY,Political Science & Geography,MD,1967,Political Science,Ph. D.
+DEANNE,SHUMAN,Community & Environmental Health,VA,2000,Urban Services/Management Track,Ph. D.
+ANUSORN,SINGHAPAKDI,Marketing Department,MS,1988,Marketing,Ph. D.
+THOMAS,SOCHA,Communication & Theatre Arts,IA,1988,Communication Studies,Ph. D.
+MASHA,SOSONKINA,"Modeling, Simulation & Visualization Engineering",VA,1997,Computer Science and Applications,Ph. D.
+ROBERT,SPINA,Darden College of Education,University Of Pittsburgh,1988,"Health, Physical and Recreation Education",Ph. D.
+MICHAEL,STEIN,Accounting,University of British Columbia,1988,Accounting,Ph. D.
+CHARLES,SUKENIK,Physics,CT,1993,Physics,Ph. D.
+GLEN,SUSSMAN,Political Science & Geography,WA,1987,Political Science,Ph. D.
+DAVID,SWAIN,Human Movement Sciences,University of North Carolina Medical School,1984,Physiology,Ph. D.
+WAYNE,TALLEY,Economics,KY,1972,Economics,Ph. D.
+ARTHUR,TAYLOR,Mechanical & Aerospace Engineering,Virginia Polytechnic Institute & State University,1989,"Mechanical Eng., Thermo/Fluids",Ph. D.
+VICTORIA,TIME,Sociology & Criminal Justice,University of Yaounde,"",English Private Law,LL.B.
+SUSAN,TOLLE,Dental Hygiene,KY,"",Dental Hygiene,B.S.
+CYNTHIA,TOMOVIC,STEM Education & Professional Studies,University of Michigan,1990,Higher and Adult Education Administration,Ph. D.
+MILETA,TOMOVIC,Engineering Technology,The University of Michigan,1991,Mechanical Engineering,Ph. D.
+STEPHEN,TONELSON,Communication Disorders & Special Education,University of Virginia,1980,"Curriculum, Research and Evaluation",Ed.D.
+JOHN,TOOMEY,Department of Music,Eastman School of Music,1982,Jazz Performance,M.M.
+RUTH,TRIPLETT,Sociology & Criminal Justice,University Of Maryland - College Park,1990,Criminology,Ph. D.
+JOHN,TWEED,Department of Mathematics & Statistics,University of Glasgow,1981,Applied Mathematics,D.Sc.
+RESIT,UNAL,Engineering Management & Systems Engineering,University of Missouri - Rolla,1986,Engineering Management,Ph. D.
+BONNIE,VAN LUNEN,228 Spong Hall,University of Virginia,1998,Education - Physical Education,Ph. D.
+JAY,VAN ORDEN,Physics,CA,1978,Theoretical Nuclear Physics,Ph. D.
+ALOK,VERMA,Engineering Technology,VA,2005,Mechanical Engineering,Ph. D.
+LEPOSAVA,VUSKOVIC,Physics,University Of Belgrade,(Yugoslavia),Physics,Ph. D.
+GARY,WAGNER,Economics,WV,1999,Economics,Ph. D.
+GUIJUN,WANG,Chemistry & Biochemistry,MI,1999,Organic Chemistry,Ph. D.
+LAWRENCE,WEINSTEIN,Physics,Massachusetts Institute Of Technology,1988,Physics,Ph. D.
+COLM,WHELAN,Physics,University Of Cambridge (United Kingdom),2003,Theoretical Physics,Sc.D.
+BARBARA,WINSTEAD,Department of Psychology,MA,1980,Psychology,Ph. D.
+ROBERT,WOJTOWICZ,Academic Affairs,PA,1990,History of Art,Ph. D.
+WILLY,WRIGGERS,Mechanical & Aerospace Engineering,IL,1998,Physics,Ph. D.
+LI,XU,Information Technology & Decision Sciences,OR,1986,Systems Science (with support area Design of Information Systems),Ph. D.
+XIAOHONG,XU,Chemistry & Biochemistry,Ames Lab/US-DOE,Iowa State University,Postdoctoral Fellow,Postdoctoral Fellow
+XIUSHI,YANG,Sociology & Criminal Justice,RI,1991,Sociology (with a concentration in population studies),Ph. D.
+STEVE,YETIV,Political Science & Geography,Kent State University,1990,Political Science,Ph. D.
+KENNETH,YUNG,Finance Department,GA,1989,Finance,Ph. D.
+DONALD,ZEIGLER,Political Science & Geography,MI,1980,Geography,Ph. D.
+DENNIS,ZEISLER,Department of Music,University of Michigan,1971,Clarinet Performance,M.M.
+DOUGLAS,ZIEGENFUSS,Accounting,VA,1989,Accounting,Ph. D.
+RICHARD,ZIMMERMAN,"Ocean, Earth & Atmospheric Sciences",University Of Southern California,1983,Biological Sciences,Ph. D.
+MOHAMMAD,ZUBAIR,Computer Science Department,Indian Institute Of Technology,1987,Computer Science,Ph. D.
+MICHAEL,ZUGELDER,Finance Department,University of Toledo College of Law,1980,"",J.D.
+DANA,BURNETT,Educational Foundations & Leadership,Indiana University,1972,Higher Education Administration,Ed.D.
+STEPHEN,GORDON,Public Service,University of Maryland - College Park,1984,Government and Politics,Ph. D.
+NANCY,SWEENEY,Nursing,The Ohio State University,1995,Preventive Medicine,Ph. D.
+ANDREW,COLLINS,"Virginia Modeling, Analysis & Simulation Center",University of Southampton,2009,Management Sciences,Ph. D.
+SAIKOU,DIALLO,"Virginia Modeling, Analysis & Simulation Center",VA,2010,Modeling and Simulation,Ph. D.
+BRIDGET,GILES,"Virginia Modeling, Analysis & Simulation Center"
+ROSS,GORE,""
+SIQI,GUO,Frank Reidy Center for Bioelectrics,Zhejiang University,1991,Clinical Medicine,M.D.
+MUHAMMAD,MALIK,Frank Reidy Center for Bioelectrics
+JOSE,PADILLA,"Virginia Modeling, Analysis & Simulation Center",VA,2010,Engineering Management and Systems Engineering,Ph. D.
+KRZYSZTOF,RECHOWICZ,""
+IURII,SEMENOV,Frank Reidy Center for Bioelectrics
+SETH,WEINBERG,"Virginia Modeling, Analysis & Simulation Center"
+CATHERINE,BERRY,"Virginia Modeling, Analysis & Simulation Center",VA,2004,International Studies,Ph. D.
+HAI-LAN,CHEN,Frank Reidy Center for Bioelectrics
+RAFAEL,DIAZ,"Virginia Modeling, Analysis & Simulation Center",VA,2007,Modeling and Simulation,Ph. D.
+BARRY,EZELL,"Virginia Modeling, Analysis & Simulation Center",MS,"",Mechanical Engineering Technology,B.S.
+OLGA,PAKHOMOVA,Frank Reidy Center for Bioelectrics,Medical Radiology Research Center,1995,Radiation Biology/ Biophysics,Ph. D.
+VIVIENNE,PARODI,"Virginia Modeling, Analysis & Simulation Center"
+MICHAEL,STACEY,Frank Reidy Center for Bioelectrics,University Of Birmingham,1989,Cancer Biology,Ph. D.
+STEPHEN,BEEBE,Frank Reidy Center for Bioelectrics,Medical College Of Ohio,1982,Ph. D.,Ph. D.
+ANDREI,PAKHOMOV,Frank Reidy Center for Bioelectrics,Medical Radiology Research Center,1989,Biophysics/Radiation Biology,Ph. D.
+YIANNIS,PAPELIS,"Virginia Modeling, Analysis & Simulation Center",University Of Iowa,1993,Electrical and Computer Engineering,Ph. D.
+PAUL,VERNIER,Frank Reidy Center for Bioelectrics
+DAVID,CHAPMAN,Public Service,VA,2007,Public Administration & Urban Policy,Ph. D.
+JOSEPH,HODES,Graduate Program in International Studies (GPIS),York University,2011,Humanitites,Ph. D.
+YELENA,PROK,Physics,University of Virginia,2004,Nuclear Physics,Ph. D.
+CHRISTINA,SCHOUX CASEY,English,University of Pittsburgh,2013,Linguistics,Ph. D.
+JEWEL,SHEPHERD,""
+JOHN,BAILEY,English,LA,1998,English,M.A.
+MAUREEN,BOSHIER,Community & Environmental Health,MA,2010,Law and Policy,D.L.P.
+DOUGLAS,BRENT,English,University of British Columbia,1988,Rhetoric and Composition,Ph. D.
+FRANCIS,KALUPA,Communication & Theatre Arts,CA,1979,Communication,Ph. D.
