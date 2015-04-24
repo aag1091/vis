@@ -1,1 +1,5 @@
-console.log('This would be the main JS file.');
+$(document).ready(function() {
+  $('pre code').each(function(i, block) {
+    hljs.highlightBlock(block);
+  });
+});
