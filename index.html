@@ -13,14 +13,14 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <title>Vis by aag1091</title>
+    <title>Information Visualization Project Site</title>
   </head>
 
   <body>
     <header>
       <div class="inner">
-        <h1>Vis Project</h1>
-        <h2>By Avinash Gosavi and Prasana Sajjan</h2>
+        <h1>Mace & Crown</h1>
+        <h2>By Avinash Gosavi and Prasanna Sajjan</h2>
         <a href="https://github.com/aag1091/vis" class="button"><small>View project on</small> GitHub</a>
       </div>
     </header>
@@ -29,10 +29,10 @@
       <div class="inner clearfix">
         <section id="main-content">
           <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to Group 4 - Vis Project Site.</h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Project Proposal</h3>
 
-<p>
-  Prasana is going to add project description when he comes
+<p> We are interested to know how the salary of faculty working at ODU varies across each department. </br>
+We also want to know the answers for some of the questions that are listed below:
   <ul>
     <li>What is the median salary for each department by position? How does it compare with that of the median salary in the Unites States?</li>
     <li>Geographic diversity of the faculty working at ODU. From which state/country did they obtain their degree from?</li>
@@ -41,49 +41,195 @@
   </ul>
 </p>
 
-<!-- <pre><code>
-# Some code needs to be added here
-</code></pre> -->
+<pre><code>
+require 'mechanize'
+require 'csv'
+
+salary_data = CSV.read('salary_data.csv')
+universities = CSV.read('postscndryunivsrvy2013dirinfo12.csv', encoding: "iso-8859-1:UTF-8", :headers => true)
+states = CSV.read('state_table.csv', encoding: "iso-8859-1:UTF-8", :headers => true)
+teachers = []
+
+salary_data.each do |sd|
+  teacher = {
+    first_name: "",
+    last_name: "",
+    position: "",
+    salary: "", 
+    department: "",
+    university: "",
+    st_abbr: "",
+    state: "",
+    year: "",
+    major: "",
+    degree: ""
+  }
+  puts "-"*25
+  mechanize = Mechanize.new
+
+  first_name = sd[1]
+  last_name = sd[0]
+
+  teacher[:first_name] = first_name
+  teacher[:last_name] = last_name
+  teacher[:position] = sd[2]
+  teacher[:salary] = sd[3]
+
+  page = mechanize.get('https://www.odu.edu/directory?F_NAME='+first_name+'&L_NAME='+last_name+'&SEARCH_IND=E')
+
+  # puts page.inspect
+
+  link = ""
+  page.search("table.bordertable tr:nth-child(3) td:first a").each do |a|
+    link = a['href'] 
+    # puts a['href']
+    puts "Name - " + a.text.strip
+  end
+
+  page = mechanize.get('https://www.odu.edu'+link)
+
+  # puts page.inspect
+
+  img_url = ""
+  page.search("section.alpha ul.left_column li:nth-child(1) img").each do |img|
+    img_url = img['src']
+    puts "Image Url - " + img_url
+  end
+
+  department = ""
+  if img_url == ""
+    page.search("section.alpha ul.left_column li:nth-child(3)").each do |a|
+      department = a.text.strip
+      puts "Department - " + department
+    end
+  else
+    page.search("section.alpha ul.left_column li:nth-child(4)").each do |a|
+      department = a.text.strip
+      puts "Department - " + department
+    end
+  end
+
+  teacher[:department] = department
+
+  education = []
+  page.search(".tab-content ul.ul_in_tab li.fas_education dl").each do |a|
+    edu = {}
+    university, year, major, degree = ""
+    a.search('dt').each do |a|
+      university, year = a.text.strip.split(',')
+    end
+    a.search('dd:first').each do |a|
+      a.search('strong').remove
+      major = a.text
+    end
+    a.search('dd:last').each do |a|
+      a.search('strong').remove
+      degree = a.text
+    end
+    edu = {
+      'university' => (university || "").strip,
+      'year' => (year || "").strip,
+      'major' => (major || "").strip,
+      'degree' => (degree || "").strip,
+    }
+    education << edu
+  end
+
+  puts "education"
+  puts education.first.inspect
+
+  if education.any?
+    teacher[:university] = education.first['university']
+    uni = universities.select{ |u| u['INSTNM'] == education.first['university'] }
+    puts uni.inspect
+    if uni.any?
+      teacher[:st_abbr] = uni.first['STABBR']
+    end
+    state = states.select{ |u| u['abbreviation'] == teacher[:st_abbr] }
+    puts state.inspect
+    if state.any?
+      teacher[:state] = state.first['name']
+    end
+    teacher[:year] = education.first['year']
+    teacher[:major] = education.first['major']
+    teacher[:degree] = education.first['degree']
+  end
+
+  teachers << teacher
+  puts "#{teacher[:first_name]}  #{teacher[:last_name]}- Done"
+end
+
+puts teachers.inspect
+
+CSV.open('processed_salary_data.csv', 'w') do |csv_object|
+  csv_object << teachers.first.keys
+  teachers.each do |row_array|
+    csv_object << row_array.values
+  end
+end
+
+</code></pre> 
 
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>what-why-how framework</h3>
 
-<p>Prasana will add what-why-how framework</p>
+<p>Will be updated</p>
 
 <h3>
-<a id="rather-drive-stick" class="anchor" href="#rather-drive-stick" aria-hidden="true"><span class="octicon octicon-link"></span></a>planned milestone check-in dates</h3>
+<a id="rather-drive-stick" class="anchor" href="#rather-drive-stick" aria-hidden="true"><span class="octicon octicon-link"></span></a>Planned milestone check-in dates</h3>
 
-<p>Prasana make some data.</p>
+<p>March 27th and Aptil 24th</p>
 
 <h3>
 <a id="rather-drive-stick" class="anchor" href="#rather-drive-stick" aria-hidden="true"><span class="octicon octicon-link"></span></a>List of data sources</h3>
 
-<p>Prasana make some data.</p>
+<p>
+<ul>
+<li>http://www.richmond.com/data-center/salaries-virginia-state-employees-2013/ </li>
+<li>http://www1.salary.com/Edu-Govt-and-Nonprofit-Industry-Education-Salaries.html </li>
+<li>https://www.odu.edu/directory </li>
+<li>http://www.payscale.com/ </li>
+<li>Mace & Crown</li>
+</ul>
+</p>
 
 <h3>
 <a id="rather-drive-stick" class="anchor" href="#rather-drive-stick" aria-hidden="true"><span class="octicon octicon-link"></span></a>Links to tool and technologies used</h3>
 
-<p>Prasana make some data.</p>
+<p>
+<ul>
+<li>http://d3js.org/</li>
+<li>http://www.tableau.com/</li>
+</ul>
+</p>
 
 <h3>
 <a id="rather-drive-stick" class="anchor" href="#rather-drive-stick" aria-hidden="true"><span class="octicon octicon-link"></span></a>Useful links</h3>
 
-<p>Prasana make some data.</p>
+<p> Will be updated </p>
 
 <h3>
 <a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 
-<p>PS and AAG are the sole contributors</p>
+<div class="clearfix float-my-children">
+   <img src="Images/me.jpg" width=100 style="float: left;">
+   <div>Prasanna Sajjan</div>
+</div>
+</br>
+<div class="clearfix float-my-children">
+   <img src="Images/me2.jpg" width=100 style="float: left;">
+   <div>Avinash Gosavi</div>
+</div>
 
         </section>
 
         <aside id="sidebar">
           <a href="https://speakerdeck.com/aag1091/project-proposal-mace-and-crown" class="button" target="_blank">
-            <small>project proposal slides</small>
+            <small>PROJECT PROPOSAL SLIDES</small>
             .pdf file
           </a>
           <a href="https://speakerdeck.com/aag1091/project-updated-presentation-mace-and-crown" class="button" target="_blank">
-            <small>project update slides</small>
+            <small>PROJECT UPDATE SLIDES</small>
             .pdf file
           </a>
 
