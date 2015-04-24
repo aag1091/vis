@@ -7,7 +7,19 @@ states = CSV.read('state_table.csv', encoding: "iso-8859-1:UTF-8", :headers => t
 teachers = []
 
 salary_data.each do |sd|
-  teacher = {}
+  teacher = {
+    first_name: "",
+    last_name: "",
+    position: "",
+    salary: "", 
+    department: "",
+    university: "",
+    st_abbr: "",
+    state: "",
+    year: "",
+    major: "",
+    degree: ""
+  }
   puts "-"*25
   mechanize = Mechanize.new
 
@@ -16,8 +28,8 @@ salary_data.each do |sd|
 
   teacher[:first_name] = first_name
   teacher[:last_name] = last_name
-  teacher[:position] = first_name
-  teacher[:salary] = last_name
+  teacher[:position] = sd[2]
+  teacher[:salary] = sd[3]
 
   page = mechanize.get('https://www.odu.edu/directory?F_NAME='+first_name+'&L_NAME='+last_name+'&SEARCH_IND=E')
 
